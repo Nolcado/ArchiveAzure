@@ -59,7 +59,7 @@ La diffusion d'informations relatives aux anomalies en dehors de la C.C.P. est s
 
 
 
-  -Note au personnel
+  -**Note au personnel**
 
 
 
