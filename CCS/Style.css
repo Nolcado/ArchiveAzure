@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    title-align: center;
+    background-color: #114BA6;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: Orange;
+}
+
+/* Couleur des liens */ 
+a { 
+color: #701705 ; 	/* Rouge foncé */ 	
+text-decoration: none; 	/* Enlève le soulignement */	 
+font-weight: bold; 
+} 
+
+/* Lorsque la souris passe dessus */ 
+a:hover { 
+  color: #ffffff; 	/* Blanc */ 	
+  text-decoration: underline; 
+} 
+
+/* Lien déjà visité */ 
+a:visited { 
+  color: #8a2be2; 	/* Violet */ 	
+} 
+
+/* Pendant le clic */ 
+a:active { 
+  color: #ff0000; 	/* Rouge */ } 	
