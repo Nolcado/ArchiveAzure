@@ -1,6 +1,6 @@
 **DOSSIER INTERNE - Niveau 1**
 
-Agence du C.C.P.
+Agence du C.C.A.
 
 
 
@@ -12,9 +12,9 @@ Nature : Agence gouvernementale clandestine.
 
 
 
-L'existence de la C.C.P. n'est reconnue par aucune administration officielle. Les rares documents la mentionnant sont classifiés ou fortement censurés.
+L'existence de la C.C.A. n'est reconnue par aucune administration officielle. Les rares documents la mentionnant sont classifiés ou fortement censurés.
 
-L'existence de la C.C.P. demeure confidentielle. Les agents sont soumis à un devoir absolu de discrétion.
+L'existence de la C.C.A. demeure confidentielle. Les agents sont soumis à un devoir absolu de discrétion.
 
 
 
@@ -54,7 +54,7 @@ Tout incident impliquant une anomalie doit être signalé dans un délai maximal
 
 
 
-La diffusion d'informations relatives aux anomalies en dehors de la C.C.P. est strictement interdite. Vous serez alors classifié Code 2.
+La diffusion d'informations relatives aux anomalies en dehors du C.C.A. est strictement interdite. Vous serez alors classifié Code 2.
 
 
 
