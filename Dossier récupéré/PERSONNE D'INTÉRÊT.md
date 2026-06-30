@@ -14,7 +14,7 @@
 
 
 
-**Plusieurs dossiers confidentiels de la C.C.P. font mention d'un individu identifié uniquement sous le nom d'« Ami ».**
+**Plusieurs dossiers confidentiels du C.C.A. font mention d'un individu identifié uniquement sous le nom d'« Ami ».**
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-**Cette identification n'a jamais été confirmée par la Direction de la C.C.P.**
+**Cette identification n'a jamais été confirmée par la Direction de la C.C.A.**
 
 
 
