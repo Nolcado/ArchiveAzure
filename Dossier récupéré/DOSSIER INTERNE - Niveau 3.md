@@ -1,12 +1,12 @@
 **DOSSIER INTERNE - Niveau 3**
 
-Agence du C.C.P.
+Agence du C.C.A.
 
 Statut : Officier
 
 Nature : Agence gouvernementale clandestine.
 
-L'existence de la C.C.P. n'est reconnue par aucune administration officielle. Les rares documents la mentionnant sont classifiés ou fortement censurés.
+L'existence du C.C.A. n'est reconnue par aucune administration officielle. Les rares documents la mentionnant sont classifiés ou fortement censurés.
 
   -**Missions**
 
@@ -46,7 +46,7 @@ Code 6 : Individu ayant été exposé à une anomalie et présentant des altéra
 
   -**Relations avec le Fabism**
 
-Les relations entre la C.C.P. et le culte du Fabism ne sont pas de ce niveau.
+Les relations entre la C.C.A. et le culte du Fabism ne sont pas de ce niveau.
 
 
   -**Note au personnel**
